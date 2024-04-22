@@ -1,0 +1,55 @@
+Region,State,City,LocationKey
+Northeast,New York,New York,New York-New York
+South,Texas,Houston,Texas-Houston
+West,California,San Francisco,California-San Francisco
+West,California,Los Angeles,California-Los Angeles
+Midwest,Illinois,Chicago,Illinois-Chicago
+South,Texas,Dallas,Texas-Dallas
+Northeast,Pennsylvania,Philadelphia,Pennsylvania-Philadelphia
+West,Nevada,Las Vegas,Nevada-Las Vegas
+West,Colorado,Denver,Colorado-Denver
+West,Washington,Seattle,Washington-Seattle
+Southeast,Florida,Miami,Florida-Miami
+Midwest,Minnesota,Minneapolis,Minnesota-Minneapolis
+Midwest,Montana,Billings,Montana-Billings
+South,Tennessee,Knoxville,Tennessee-Knoxville
+Midwest,Nebraska,Omaha,Nebraska-Omaha
+South,Alabama,Birmingham,Alabama-Birmingham
+Northeast,Maine,Portland,Maine-Portland
+West,Alaska,Anchorage,Alaska-Anchorage
+West,Hawaii,Honolulu,Hawaii-Honolulu
+Southeast,Florida,Orlando,Florida-Orlando
+Northeast,New York,Albany,New York-Albany
+West,Wyoming,Cheyenne,Wyoming-Cheyenne
+Southeast,Virginia,Richmond,Virginia-Richmond
+Midwest,Michigan,Detroit,Michigan-Detroit
+Midwest,Missouri,St. Louis,Missouri-St. Louis
+West,Utah,Salt Lake City,Utah-Salt Lake City
+West,Oregon,Portland,Oregon-Portland
+South,Louisiana,New Orleans,Louisiana-New Orleans
+West,Idaho,Boise,Idaho-Boise
+West,Arizona,Phoenix,Arizona-Phoenix
+West,New Mexico,Albuquerque,New Mexico-Albuquerque
+Southeast,Georgia,Atlanta,Georgia-Atlanta
+Southeast,South Carolina,Charleston,South Carolina-Charleston
+Southeast,North Carolina,Charlotte,North Carolina-Charlotte
+Midwest,Ohio,Columbus,Ohio-Columbus
+Southeast,Kentucky,Louisville,Kentucky-Louisville
+South,Mississippi,Jackson,Mississippi-Jackson
+South,Arkansas,Little Rock,Arkansas-Little Rock
+South,Oklahoma,Oklahoma City,Oklahoma-Oklahoma City
+Midwest,Kansas,Wichita,Kansas-Wichita
+Midwest,South Dakota,Sioux Falls,South Dakota-Sioux Falls
+Midwest,North Dakota,Fargo,North Dakota-Fargo
+Midwest,Iowa,Des Moines,Iowa-Des Moines
+Midwest,Wisconsin,Milwaukee,Wisconsin-Milwaukee
+Midwest,Indiana,Indianapolis,Indiana-Indianapolis
+Northeast,West Virginia,Charleston,West Virginia-Charleston
+Northeast,Maryland,Baltimore,Maryland-Baltimore
+Northeast,Delaware,Wilmington,Delaware-Wilmington
+Northeast,New Jersey,Newark,New Jersey-Newark
+Northeast,Connecticut,Hartford,Connecticut-Hartford
+Northeast,Rhode Island,Providence,Rhode Island-Providence
+Northeast,Massachusetts,Boston,Massachusetts-Boston
+Northeast,Vermont,Burlington,Vermont-Burlington
+Northeast,New Hampshire,Manchester,New Hampshire-Manchester
